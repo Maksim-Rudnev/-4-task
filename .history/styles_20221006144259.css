@@ -1,0 +1,12 @@
+.parent {
+    position: relative;
+    width: 50%;
+    height: 50%;
+    background-color: red;
+}
+
+.child {
+    position: absolute;
+    left: 50%;
+    tpo
+}

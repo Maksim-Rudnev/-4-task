@@ -1,0 +1,14 @@
+.parent {
+    display: flex;
+    ju
+    width: 50%;
+    height: 50%;
+    background-color: red;
+}
+
+.child {
+    width: 50%;
+    height: 50%;
+
+    background-color: aqua;
+}
