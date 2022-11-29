@@ -1,3 +1,4 @@
+
 console.time('Time');
 let i = 999, j = 999;
 let stop = 900;
